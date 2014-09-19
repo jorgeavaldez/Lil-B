@@ -1,7 +1,7 @@
 Lil-B
 =====
 
-First it parks it's car, then it fucks your bitch.
+First it parks its car, then it fucks your bitch.
 
 
 Release
