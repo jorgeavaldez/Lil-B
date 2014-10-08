@@ -20,7 +20,9 @@ namespace BasedForm
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
+            //Creates a sound playback object
             SoundPlayer bitch = new SoundPlayer("bitch.wav");
+            //Plays "Bitch I'm lil B"
             bitch.Play();
         }
     }
